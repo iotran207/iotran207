@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on <a href = "https://github.com/CHT-oj">Ha Tinh High School for the Gifted Programming Club.</a>
+- 🔭 I’m currently working on <a href = "https://github.com/CHT-oj">CHToj.</a>
 - 🌱 I’m currently learning: Competitive Programming Algorithms, How to design a flawless system.
 - 💬 Ask me about Python! 🐍
 - 📫 How to reach me: <a href ="mailto:lthlvn2007@gmail.com">![Gmail Badge](https://img.shields.io/badge/-lthlvn2007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lthlvn2007@gmail.com)</a>
